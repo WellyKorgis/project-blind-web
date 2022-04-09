@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## ReactJS naming convention
 
-This project follows ReactJs naming convention, you can have a look at here: [https://www.upbeatcode.com/react/react-naming-conventions/] about the naming convention.
+This project follows ReactJs naming convention, you can have a look at here [https://www.upbeatcode.com/react/react-naming-conventions/] about the naming convention.
 
 ## Available Scripts
 
