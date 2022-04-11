@@ -1,4 +1,4 @@
-# :paperpage_with_curl: What is this PR?
+# :page_with_curl: What is this PR?
 > Add a summary of this PR. Describe what the change does and why the change is made
 
 # :dart: Associated ticket
