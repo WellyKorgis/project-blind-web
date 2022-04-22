@@ -11,8 +11,9 @@ You can find the summary of development guideline [here](https://www.notion.so/6
 (TBC)
 
 ## :airplane: How to run tests
-(TBC)
-
+`cd blind`
+`npm install` -if you are running this project for the first time.
+`npm run dev`
 # :gem: Style Guide
 
 ## :closed_book: How to do Code Review
